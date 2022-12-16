@@ -9,7 +9,7 @@ SRC		=	main.c \
 
 OBJ 	= 	$(SRC:.c=.o)
 
-NAME	= 	radar_gene
+NAME	= 	plane_gene
 
 CFLAGS +=	-Wall -I./include -g -lncurses -lmenu
 
