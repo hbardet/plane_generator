@@ -6,6 +6,7 @@
 ##
 
 SRC		=	main.c \
+			help_print.c \
 
 OBJ 	= 	$(SRC:.c=.o)
 
