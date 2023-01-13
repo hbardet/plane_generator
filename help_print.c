@@ -14,7 +14,6 @@ int print_help(char *check)
         printf("\t./plane_gene nb_plane nb_tower\n");
         printf("DESCRIPTION\n");
         printf("generate a script with n plane place random coordinate which go to random coordinate\n");
-        printf("");
         exit(0);
     } else
         return (0);
